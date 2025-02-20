@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/7lirhLLRJWAAAAAj/ai-hoshino-ai-dance.gif"  />
+<img align="right" height="150" src="https://i.redd.it/1l6nv8bcxx191.gif"  />
 
 ###
 

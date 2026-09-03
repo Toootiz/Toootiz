@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+############################################################################################################################
 <h2 align="left">Hi 👋! My name is Gabriel and I'm a passionate programmer and student, from Computer Science.</h2>
 
 ###

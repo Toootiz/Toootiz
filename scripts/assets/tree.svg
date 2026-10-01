@@ -1,0 +1,1527 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="963"
+    height="252"
+    viewBox="0 0 963 252"
+>
+
+<style>
+
+text {
+    font-family:
+        "Cascadia Mono",
+        "JetBrains Mono",
+        "Consolas",
+        monospace;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    white-space: pre;
+}
+
+</style>
+
+<!-- ================================ -->
+<!-- ÁRBOL -->
+<!-- ================================ -->
+
+<g id="tree">
+
+<text
+    x="396"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="405"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="414"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="495"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="504"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="531"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="540"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="576"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="585"
+    y="36"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="387"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="396"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="405"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="414"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="423"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="477"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="486"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="495"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="504"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="513"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="522"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="540"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="549"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="558"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="576"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="585"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="594"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="603"
+    y="54"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="369"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="387"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="396"
+    y="72"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="405"
+    y="72"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="414"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="423"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="432"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="441"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="468"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="477"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="486"
+    y="72"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="495"
+    y="72"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="504"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="513"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="522"
+    y="72"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="531"
+    y="72"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="540"
+    y="72"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="549"
+    y="72"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="558"
+    y="72"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="567"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="576"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="585"
+    y="72"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="360"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="369"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="90"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="405"
+    y="90"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="441"
+    y="90"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="468"
+    y="90"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="495"
+    y="90"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="504"
+    y="90"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="513"
+    y="90"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="522"
+    y="90"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="531"
+    y="90"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="549"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="558"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="90"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="576"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="585"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="594"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="603"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="612"
+    y="90"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="351"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="360"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="369"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="108"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="387"
+    y="108"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="396"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="414"
+    y="108"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="423"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="432"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="441"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="450"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="459"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="468"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="477"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="486"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="495"
+    y="108"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="504"
+    y="108"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="513"
+    y="108"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="522"
+    y="108"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="558"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="576"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="585"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="594"
+    y="108"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="612"
+    y="108"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="333"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="342"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="351"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="360"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="369"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="387"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="405"
+    y="126"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="414"
+    y="126"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="423"
+    y="126"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="432"
+    y="126"
+    fill="#875f00"
+>-</text>
+
+<text
+    x="441"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="450"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="459"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="468"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="477"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="486"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="495"
+    y="126"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="504"
+    y="126"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="531"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="540"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="576"
+    y="126"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="612"
+    y="126"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="333"
+    y="144"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="360"
+    y="144"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="369"
+    y="144"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="144"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="387"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="396"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="405"
+    y="144"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="414"
+    y="144"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="423"
+    y="144"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="432"
+    y="144"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="441"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="450"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="459"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="468"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="504"
+    y="144"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="513"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="522"
+    y="144"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="531"
+    y="144"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="540"
+    y="144"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="549"
+    y="144"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="558"
+    y="144"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="333"
+    y="162"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="360"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="369"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="162"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="387"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="405"
+    y="162"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="414"
+    y="162"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="423"
+    y="162"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="432"
+    y="162"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="441"
+    y="162"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="450"
+    y="162"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="468"
+    y="162"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="477"
+    y="162"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="486"
+    y="162"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="522"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="531"
+    y="162"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="540"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="549"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="558"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="576"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="585"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="594"
+    y="162"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="333"
+    y="180"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="369"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="378"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="387"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="396"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="459"
+    y="180"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="468"
+    y="180"
+    fill="#875f00"
+>_</text>
+
+<text
+    x="477"
+    y="180"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="486"
+    y="180"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="495"
+    y="180"
+    fill="#875f00"
+>\</text>
+
+<text
+    x="522"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="531"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="540"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="549"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="558"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="567"
+    y="180"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="594"
+    y="180"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="387"
+    y="198"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="468"
+    y="198"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="477"
+    y="198"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="486"
+    y="198"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="495"
+    y="198"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="540"
+    y="198"
+    fill="#00afff"
+>*</text>
+
+<text
+    x="558"
+    y="198"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="594"
+    y="198"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="387"
+    y="216"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="459"
+    y="216"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="468"
+    y="216"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="477"
+    y="216"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="486"
+    y="216"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="558"
+    y="216"
+    fill="#00d7ff"
+>|</text>
+
+<text
+    x="450"
+    y="234"
+    fill="#875f00"
+>/</text>
+
+<text
+    x="459"
+    y="234"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="468"
+    y="234"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="477"
+    y="234"
+    fill="#af8700"
+>~</text>
+
+<text
+    x="486"
+    y="234"
+    fill="#875f00"
+>\</text>
+</g>
+
+
+<!-- ================================ -->
+<!-- HOJAS ANIMADAS -->
+<!-- ================================ -->
+
+<g id="falling-leaves">
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    ✦
+
+    <animate
+        attributeName="x"
+        values="550.7;534.4;497.4;463.7;450.8;434.5;397.5"
+        dur="6.04s"
+        begin="2.43s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="180.0;200.6;224.8;244.7;252.0;252.0;252.0"
+        dur="6.04s"
+        begin="2.43s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="6.04s"
+        begin="2.43s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    ✦
+
+    <animate
+        attributeName="x"
+        values="530.8;544.5;569.7;610.7;630.5;647.5"
+        dur="4.74s"
+        begin="2.41s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="162.0;187.3;204.3;225.7;252.0;252.0"
+        dur="4.74s"
+        begin="2.41s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="4.74s"
+        begin="2.41s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    ✦
+
+    <animate
+        attributeName="x"
+        values="325.5;345.4;361.5;362.6;367.5;387.4;403.5"
+        dur="5.86s"
+        begin="4.57s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="126.0;144.7;169.0;178.5;217.7;213.5;252.0"
+        dur="5.86s"
+        begin="4.57s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="5.86s"
+        begin="4.57s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    ✦
+
+    <animate
+        attributeName="x"
+        values="376.8;414.0;421.2;443.8;486.8;501.8"
+        dur="5.56s"
+        begin="0.92s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="54.0;74.4;111.5;110.4;151.2;154.3"
+        dur="5.56s"
+        begin="0.92s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="5.56s"
+        begin="0.92s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    *
+
+    <animate
+        attributeName="x"
+        values="586.3;577.6;558.7;533.7;514.1;504.9;498.1;482.8;458.6"
+        dur="6.50s"
+        begin="1.20s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="36.0;53.3;58.6;79.9;99.9;105.3;107.1;161.8;151.4"
+        dur="6.50s"
+        begin="1.20s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="6.50s"
+        begin="1.20s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    *
+
+    <animate
+        attributeName="x"
+        values="606.1;617.2;622.8;628.1;638.6;653.4;666.3;673.4;678.0"
+        dur="5.46s"
+        begin="4.67s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="90.0;106.2;118.0;131.9;145.1;160.3;167.1;210.1;229.0"
+        dur="5.46s"
+        begin="4.67s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="5.46s"
+        begin="4.67s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    *
+
+    <animate
+        attributeName="x"
+        values="617.7;633.5;638.1;646.6;668.0;691.3;702.5;706.4"
+        dur="5.15s"
+        begin="4.85s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="90.0;104.3;128.9;145.4;146.0;182.3;182.6;193.0"
+        dur="5.15s"
+        begin="4.85s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="5.15s"
+        begin="4.85s"
+        repeatCount="indefinite"
+    />
+</text>
+
+
+<text
+    x="0"
+    y="0"
+    fill="#00d7ff"
+    opacity="0"
+>
+    *
+
+    <animate
+        attributeName="x"
+        values="565.2;562.6;552.1;533.4;516.2;508.5;506.4;499.2;482.5"
+        dur="5.80s"
+        begin="3.25s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="y"
+        values="72.0;88.7;97.2;114.3;125.3;152.0;170.4;182.6;177.0"
+        dur="5.80s"
+        begin="3.25s"
+        repeatCount="indefinite"
+    />
+
+    <animate
+        attributeName="opacity"
+        values="0;1;1;1;0"
+        keyTimes="0;0.08;0.60;0.85;1"
+        dur="5.80s"
+        begin="3.25s"
+        repeatCount="indefinite"
+    />
+</text>
+
+</g>
+
+</svg>

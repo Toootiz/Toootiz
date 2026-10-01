@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 />
 
 <p align="center">
-  <img src="./assets/tree.svg" alt="Animated ASCII Tree">
+  <img src="./scripts/assets/tree.svg" alt="Animated ASCII Tree">
 </p>
 
 

@@ -1,4 +1,6 @@
-<!--![gg](https://media.tenor.com/h-JHDTdf7noAAAAi/night-stars.gif) -->
+<!--![gg](https://media.tenor.com/h-JHDTdf7noAAAAi/night-stars.gif)
+https://files.catbox.moe/tyumap.webp
+ -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
